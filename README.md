@@ -4,8 +4,6 @@
 ```markdown
 # RI2
 
-<img src="https://via.placeholder.com/800x200/000000/FFFFFF?text=RI2+-+Clientes+com+descrição" alt="RI2 banner">
-
 Cadastro simples de clientes com endereço e telefone celular + ordenação por nome.
 
 ## Objetivo
